@@ -1,1 +1,1 @@
-Projeto de uma landig page desenvolvido para o processo seletivo da empresa junior Loading
+Projeto de uma landing page desenvolvido para o processo seletivo da empresa junior Loading
